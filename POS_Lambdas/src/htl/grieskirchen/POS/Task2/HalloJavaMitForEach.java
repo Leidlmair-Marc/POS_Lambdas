@@ -1,4 +1,4 @@
-package htl.grieskirchen.POS;
+package htl.grieskirchen.POS.Task2;
 
 import java.util.ArrayList;
 
